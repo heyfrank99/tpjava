@@ -75,7 +75,7 @@ document.write("No es divisible por 2");
 
 //9.- Escribe un programa que pida una frase y escriba las vocales que aparecen
 
-let str "hola mundo!" ;
+let str = "hola mundo!" ;
 for (let i=0; i < str.length; i++) {
     let vocal= str.chartAt(i); 
 
